@@ -1,0 +1,13 @@
+Compiling OS	Ubuntu 18.04 LTS
+Source branch	0.16
+Algorithm	Scrypt
+Block type	Proof-of-Work
+Coin name	Nutcoin
+Coin abbreviation	NUT
+Address letter	N
+RPC port	7011
+P2P port	7012
+Block reward	3 coins
+Block halving	333000 blocks
+Coin supply	1998000 coins
+Website URL	https://gpuhash.org
